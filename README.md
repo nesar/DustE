@@ -9,6 +9,8 @@ The two-component model, inspired by the great success of the [Charlot & Fall (2
 To install the package, simply type the following command in terminal.
 
         pip install DustE
+        pip install git+https://github.com/nesar/DustE.git
+
 
 Alternately (not as recommended), open terminal in the directory where you would like the code to be placed and type
         
